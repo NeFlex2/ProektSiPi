@@ -7,7 +7,7 @@
 5)	Реализации доставки на дом, пользователю не нужно будет куда-то выходить. После покупки товара онлайн, курьер привезет его прямо к двери. 
 ## Инструкция по установке 
 Для запуска веб сервиса необходимо развернуть ловкальный сервис с помощью софта [MAMP](https://www.mamp.info/en/downloads/)  
-Далее по аналогии [Инструкции](https://smarticle.ru/ustanovka-i-nastrojka-servera-mamp-instrukcija-po-perenosu-sajta-wordpress-na-mamp/) распаковать файлы из папки [allFiles][https://github.com/NeFlex2/ProektSiPi/tree/main/allFiles]
+Далее по аналогии [Инструкции](https://smarticle.ru/ustanovka-i-nastrojka-servera-mamp-instrukcija-po-perenosu-sajta-wordpress-na-mamp/) распаковать файлы из папки [allFiles](https://github.com/NeFlex2/ProektSiPi/tree/main/allFiles)
 ## Команда разработчиков: 
 Гундоров В.С.   -	Руководитель и разработчик  
 Дрыгальцев М.Е. -	Тестировщик и аналитик  
